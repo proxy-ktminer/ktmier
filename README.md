@@ -26,7 +26,8 @@
     <!-- <a href="https://kdocs.cn/l/slPG1q488Trc"><strong>帮助文档 »</strong></a> -->
     <a href="https://kdocs.cn/l/slPG1q488Trc"></a>
 
-    <h2>容器版本即将发布……</h2>
+    容器版本即将发布……
+   <h2>一键部署，负载均衡，支持反抽水</h2>
   </p>
 </div>
 
